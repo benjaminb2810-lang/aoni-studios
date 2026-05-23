@@ -1,0 +1,130 @@
+{
+  "studio": {
+    "name": "AONI Studios",
+    "tagline": "Delicate Fineline Tattoos in München",
+    "description": "AONI Studios ist dein Studio für zarte, präzise Fineline Tattoos im Herzen Münchens. Wir erschaffen individuelle Kunstwerke auf deiner Haut – für immer.",
+    "specialty": "Fineline Tattoos · Botanicals · Minimalism · Fine Art",
+    "instagram": "https://www.instagram.com/aoni.studios/",
+    "instagram_handle": "@aoni.studios",
+    "tiktok": "https://www.tiktok.com/@aoni.studios",
+    "facebook": "https://www.facebook.com/p/Aoni-Studios-61583937726066/",
+    "address": {
+      "street": "München",
+      "note": "Genaue Adresse auf Anfrage / via Instagram",
+      "city": "München",
+      "zip": "80000",
+      "country": "Deutschland",
+      "mapQuery": "München, Deutschland"
+    },
+    "contact": {
+      "bookingNote": "Buchungen & Anfragen ausschließlich über Instagram DM oder das Buchungsformular.",
+      "instagram_dm": "https://www.instagram.com/aoni.studios/"
+    },
+    "styles": [
+      {
+        "name": "Fineline",
+        "icon": "〜",
+        "desc": "Hauchdünne, präzise Linien für zeitlose Designs. Das Herzstück von AONI Studios."
+      },
+      {
+        "name": "Botanicals",
+        "icon": "✿",
+        "desc": "Zarte Blüten, Blätter und botanische Motive – organisch und einzigartig."
+      },
+      {
+        "name": "Minimalism",
+        "icon": "◌",
+        "desc": "Weniger ist mehr. Kleine, bedeutungsvolle Motive mit großer Wirkung."
+      },
+      {
+        "name": "Lettering",
+        "icon": "ℓ",
+        "desc": "Elegante Schriften und Schriftzüge in feiner, handschriftlicher Qualität."
+      },
+      {
+        "name": "Fine Art",
+        "icon": "◇",
+        "desc": "Künstlerische, illustrative Motive – von Portrait bis abstrakt, immer fein."
+      },
+      {
+        "name": "Custom",
+        "icon": "✦",
+        "desc": "Deine Idee, unser Handwerk. Jedes Motiv wird individuell für dich entworfen."
+      }
+    ],
+    "reviews": [
+      {
+        "author": "Lena M.",
+        "rating": 5,
+        "date": "April 2025",
+        "text": "Absolut traumhaftes Ergebnis! Die Linienarbeit ist so präzise und zart – genau das, was ich mir immer vorgestellt habe. Das Studio ist wunderschön und die Atmosphäre so entspannt.",
+        "avatar": "L"
+      },
+      {
+        "author": "Nina R.",
+        "rating": 5,
+        "date": "März 2025",
+        "text": "Das beste Fineline Studio in München! Mein botanisches Tattoo ist ein echtes Kunstwerk. So viel Liebe zum Detail und die Beratung war super persönlich. Komme auf jeden Fall wieder!",
+        "avatar": "N"
+      },
+      {
+        "author": "Sophie K.",
+        "rating": 5,
+        "date": "Februar 2025",
+        "text": "Wunderschöne Arbeit, super sauber und hygienisch. Ich bin so glücklich mit meinem Schmetterlings-Tattoo. Das Studio hat eine tolle Energie und man fühlt sich sofort wohl.",
+        "avatar": "S"
+      },
+      {
+        "author": "Mia T.",
+        "rating": 5,
+        "date": "Januar 2025",
+        "text": "Ich hatte mein erstes Tattoo bei AONI und es war ein unvergessliches Erlebnis. Die Artists sind unglaublich talentiert und nehmen sich wirklich Zeit für jeden Kunden. Absolute Empfehlung!",
+        "avatar": "M"
+      }
+    ],
+    "process": [
+      {
+        "step": "01",
+        "title": "Anfrage senden",
+        "desc": "Sende uns deine Idee, Größe und gewünschten Körperbereich via Instagram DM oder unserem Buchungsformular."
+      },
+      {
+        "step": "02",
+        "title": "Design & Beratung",
+        "desc": "Wir besprechen dein individuelles Design und erstellen ein Konzept, das perfekt zu dir passt."
+      },
+      {
+        "step": "03",
+        "title": "Termin & Session",
+        "desc": "Am Tattoo-Tag erhältst du dein Motiv in entspannter, professioneller Atmosphäre gestochen."
+      },
+      {
+        "step": "04",
+        "title": "Heilung & Pflege",
+        "desc": "Wir geben dir alle Pflegehinweise mit – für ein perfektes, langlebiges Ergebnis."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Wie kann ich einen Termin buchen?",
+        "a": "Buchungen laufen ausschließlich über Instagram DM (@aoni.studios) oder unser Online-Buchungsformular. Schreib uns deine Idee, die gewünschte Größe und den Körperbereich."
+      },
+      {
+        "q": "Was sind die Preise?",
+        "a": "Preise variieren je nach Größe, Komplexität und Platzierung des Tattoos. Wir erstellen dir nach deiner Anfrage ein individuelles Angebot."
+      },
+      {
+        "q": "Wie lange dauert die Heilung?",
+        "a": "Die Oberflächenheilung dauert ca. 2–3 Wochen. Die vollständige Tiefenheilung kann 2–3 Monate in Anspruch nehmen. Wir begleiten dich durch den gesamten Prozess."
+      },
+      {
+        "q": "Sind Walk-Ins möglich?",
+        "a": "AONI Studios arbeitet hauptsächlich auf Terminbasis, um jedem Kunden die nötige Zeit und Aufmerksamkeit zu widmen. Schreib uns auf Instagram für Verfügbarkeiten."
+      },
+      {
+        "q": "Was soll ich zum Termin mitbringen?",
+        "a": "Komm ausgeruht, gut gegessen und mit frisch gewaschenem Körperbereich. Trage bequeme Kleidung, die Zugang zur Tätowierungsstelle ermöglicht. Kein Alkohol 24h vorher."
+      }
+    ]
+  }
+}
